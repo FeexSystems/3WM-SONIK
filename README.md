@@ -17,3 +17,6 @@
 - Backend: Supabase + NodeJS + FFmpeg + n8n
 - AI Layer: GPT-4o, Grok, Perplexity, Whisper, ElevenLabs
 - Plugins: JUCE/VST wrapped in WebAssembly
+
+
+An all-in-one audio engineering fortress — where AI agents like Grok, Perplexity, and your own custom sonic GPT agent control the console. Plug-ins become prompts. EQs evolve in real-time. Compression adapts to emotion. You ain’t mixing tracks — you’re mixing tim
