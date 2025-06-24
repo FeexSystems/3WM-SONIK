@@ -1,1 +1,0 @@
-// Mock content for apps/frontend/index.tsx
