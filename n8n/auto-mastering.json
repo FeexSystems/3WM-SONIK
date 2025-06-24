@@ -1,0 +1,9 @@
+{
+  "flow": "Auto Mastering",
+  "steps": [
+    "normalize",
+    "apply ozone preset",
+    "render final"
+  ],
+  "trigger": "track uploaded"
+}

@@ -1,0 +1,5 @@
+{
+  "flow": "Distribute to Boomplay",
+  "api": "Boomplay Upload API",
+  "trigger": "final track export"
+}

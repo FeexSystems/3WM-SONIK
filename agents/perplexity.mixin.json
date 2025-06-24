@@ -1,0 +1,4 @@
+{
+  "role": "Plugin wizard",
+  "workflow": "Autonomously adjust EQ, Compression, Reverb based on prompt"
+}

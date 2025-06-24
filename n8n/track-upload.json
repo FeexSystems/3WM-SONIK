@@ -1,0 +1,8 @@
+{
+  "flow": "Track Upload Handler",
+  "actions": [
+    "store in Supabase",
+    "send to BushBot",
+    "begin mastering"
+  ]
+}
