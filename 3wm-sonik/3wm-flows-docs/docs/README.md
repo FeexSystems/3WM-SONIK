@@ -1,0 +1,1 @@
+// Mock content for docs/README.md
